@@ -16,4 +16,8 @@ A retry mechanism is more effective than an immediate failure response when deal
 
 However, retries are not suitable for permanent errors like invalid input or logical failures, where immediate failure is more appropriate.
 
+Project explanation:
+
+we are builidng api function using typescript and calling using custom error class .
+
 
